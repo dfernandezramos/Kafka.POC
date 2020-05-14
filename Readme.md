@@ -31,4 +31,4 @@ When a new order in the Orders microservice is created it sends to its Kafka pro
 
 Here is a graphic I have created to explain the flow of the system when a new order is created:
 
-![alt text](https://github.com/riftgg/Kafka.POC/raw/master/Kafka_diagram.png)
+![alt text](https://github.com/dfernandezramos/Kafka.POC/raw/master/Kafka_diagram.png)
